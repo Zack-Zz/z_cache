@@ -1,0 +1,2 @@
+[workspace]
+members = ["z_cache_cli", "z_cache_core", "z_cache_ffi", "z_cache_server"]
